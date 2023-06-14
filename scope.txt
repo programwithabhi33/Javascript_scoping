@@ -1,0 +1,6 @@
+Ther is four different types scopes in the javascript.
+
+1. Global scope
+2. Module scope
+3. Function scope
+4. Block scope
