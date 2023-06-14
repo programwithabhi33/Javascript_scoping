@@ -11,4 +11,3 @@ console.log(a)
 
 // You cannot access firstVar variable because moduleExport file not exported the firstVar variable
 // console.log(firstVar)
-
